@@ -1,0 +1,5 @@
+outs:
+- md5: 8a2434151f61fe67588b681cfbad294f.dir
+  size: 28069577255
+  nfiles: 78851
+  path: dvc_dataset
