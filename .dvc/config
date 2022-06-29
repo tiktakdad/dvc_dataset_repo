@@ -1,10 +1,10 @@
 [core]
     remote = dvc_repo
 ['remote "dvc_repo"']
-    url = ssh://218.145.218.140//home/ktai01/dvc_repo
-    user = ktai01
-    port = 2020
-    password = Ktva1234!
+    url = {ssh url}
+    user = {id}
+    port = {port}
+    password = {pass}
     
     
  
